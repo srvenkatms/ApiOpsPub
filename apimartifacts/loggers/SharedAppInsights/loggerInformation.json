@@ -1,0 +1,10 @@
+{
+  "properties": {
+    "credentials": {
+      "instrumentationKey": "{{Logger-Credentials--64092ba2217d200440ea959c}}"
+    },
+    "isBuffered": true,
+    "loggerType": "applicationInsights",
+    "resourceId": "/subscriptions/c3d8fe47-5458-4f04-ab24-8dc3367ebf01/resourceGroups/rg-gd-appinsights/providers/microsoft.insights/components/SharedAppInsights"
+  }
+}
